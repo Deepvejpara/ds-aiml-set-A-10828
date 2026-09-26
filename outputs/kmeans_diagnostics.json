@@ -1,0 +1,18 @@
+{
+    "diagnostics": {
+        "2": {
+            "inertia": 713.030409855638,
+            "silhouette_score": 0.225909490374806
+        },
+        "3": {
+            "inertia": 613.5510971516659,
+            "silhouette_score": 0.1871783428407414
+        },
+        "4": {
+            "inertia": 541.6453190124006,
+            "silhouette_score": 0.19073591431739087
+        }
+    },
+    "selected_k": 2,
+    "selection_rule": "Highest silhouette score; break ties with smaller k."
+}
