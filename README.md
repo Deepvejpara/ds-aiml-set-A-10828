@@ -1,9 +1,10 @@
 # Data Science & AI/ML Practical Exam — Set A
 
 **Student Name:** Deepvejpara
+
 **Student ID:** 10828
+
 **Set:** A
-**Repository:** [Deepvejpara/ds-aiml-set-A-10828](https://github.com/Deepvejpara/ds-aiml-set-A-10828)
 
 ---
 
