@@ -1,0 +1,23 @@
+{
+    "initial_shape": [
+        305,
+        7
+    ],
+    "exact_duplicates": 5,
+    "cleaned_records": 300,
+    "missing_counts": {
+        "record_id": 0,
+        "visits": 16,
+        "recency": 15,
+        "engagement": 0,
+        "spend": 0,
+        "group": 0,
+        "response": 0
+    },
+    "partition_sizes": {
+        "fit": 192,
+        "validation": 48,
+        "test": 60
+    },
+    "disjoint_check_passed": true
+}

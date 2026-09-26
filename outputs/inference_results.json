@@ -1,0 +1,25 @@
+{
+    "welch_t_test": {
+        "H0": "Mean engagement in G1 is equal to mean engagement in G2 (mu_G1 = mu_G2)",
+        "H1": "Mean engagement in G1 is not equal to mean engagement in G2 (mu_G1 != mu_G2)",
+        "n_G1": 84,
+        "n_G2": 108,
+        "mean_G1": 51.61488095238095,
+        "mean_G2": 50.525000000000006,
+        "test_statistic": 0.7229961865721685,
+        "p_value": 0.47065078178032727,
+        "alpha": 0.05,
+        "reject_H0": false
+    },
+    "confidence_interval_95": {
+        "mean": 51.00182291666667,
+        "ci_lower": 49.537187510732345,
+        "ci_upper": 52.46645832260099,
+        "sem": 0.7425417643202995,
+        "degrees_of_freedom": 191
+    },
+    "assumptions": [
+        "Observations are independent between and within cohorts.",
+        "Sampling distribution of the sample mean is approximately normal by Central Limit Theorem (n=192)."
+    ]
+}
