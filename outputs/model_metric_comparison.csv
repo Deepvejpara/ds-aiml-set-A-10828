@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall,F1-Score
+Baseline (Dummy Most Frequent),0.5833,0.0,0.0,0.0
+Logistic Regression,0.8167,0.8333,0.8571,0.8451
+Artificial Neural Network (ANN),0.8333,0.8378,0.8857,0.8611
