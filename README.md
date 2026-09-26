@@ -1,4 +1,4 @@
-# Data Science & AI/ML Practical Exam — Set A
+# Data Science & AI/ML Practical Exam
 
 **Student Name:** Deepvejpara
 
